@@ -3,4 +3,4 @@ This repository hosts code that is supplemental to CommunityEngine.
 Includes:
 
 1. Deprecated CE Skin
-- When CE when to v0.10.01, we updated the default skin to use haml, and revamped the whole design. This means, however, that those using the old skin in their app may experience some problems (since the views your application is expecting may not exist in the new skin). Easily solved: just download the Deprecated CE Skin, and copy the necessary files into your application's view directory.
+- When CE when to v0.10.01, we updated the default skin to use haml, and revamped the whole design. This means, however, that those using the old skin in their app may experience some problems (since the views your application is expecting may not exist in the new skin). Easily solved: just download the Deprecated CE Skin, and copy the necessary files into your application's view directory. The deprecated skin also includes the old stylesheets, javascripts, and images you might need to make your app work as expected.
